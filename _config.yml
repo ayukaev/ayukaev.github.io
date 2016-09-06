@@ -1,6 +1,6 @@
 # main text of home
 name: Vlad Ayukaev
-bio: A Man who travels the world eating noodles
+bio: passionate technologist, experienced citizen, professional human being
 
 # twitter summary info
 description: passionate technologist, experienced citizen, professional human being
@@ -29,18 +29,18 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
+facebook: vlad.aykaev
+twitter: ayukaev
+google: ayukaev
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: vladislav-ayukaev
+#youtube: myyoutube
+#spotify: myspotify
+github: ayukaev
+medium: vladayukaev
+#vimeo: myvimeo
+email: ayukaev@gmail.com
 
 authors:
     johndoe:
